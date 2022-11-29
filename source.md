@@ -1,7 +1,7 @@
 ### course-lecture
 ______________
 
-- part-1:: freeCodeCamp:: https://www.youtube.com/watch?v=fis26HvvDII
+- part-1:: [freeCodeCamp::Part1](https://www.youtube.com/watch?v=fis26HvvDII)
 
   > #### environment setup on windows os
 
